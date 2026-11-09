@@ -1,0 +1,1 @@
+{"name":"kemonate-local","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"node scripts/dev.mjs","build":"npm --prefix frontend run build","test":"python backend/manage.py test archive"}}
